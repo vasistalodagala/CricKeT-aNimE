@@ -1,4 +1,4 @@
-﻿A cricket game on Turbo C++
+﻿An all in all cricket game on Turbo C++ that is similar to a mobile version.
 
 This is a game of Cricket inspired from the Cricket game on Nokia mobile. Built on Borland Turbo C++ using graphics.h library.
 The CRICKET.exe file doesn't run on 64-bit machines.
